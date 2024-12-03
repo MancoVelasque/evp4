@@ -1,0 +1,24 @@
+.card {
+    background-color: #07063a;
+}
+
+.card-text {
+    color: #06102c;
+}
+.custom-green-1{
+    background-color: #2b7a5a;
+}
+.custom-green-2{
+    background-color: rgb(255, 255, 255);
+    border: 2px dashed rgb(5, 70, 64);
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    background: #DA4453;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #89216B, #DA4453);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #89216B, #DA4453); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
